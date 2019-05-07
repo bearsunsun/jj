@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <style>
+            table{
+                width:calc(50vmin-50px);
+                height:calc(50vmin-40px);
+                margin:8px;
+             }
+             td{
+                 text-align: center;
+                 font-size: 5vmin;
+                 width:16.67%;
+                 height:20%;
+                 background-color:  rgb(224, 184, 131);
+             }
+            td:hover{
+                position:relative;
+                top:5px;
+                left:5px;
+                box-shadow: 9px 13px 18px 0px ;
+            }
+            .diag-one{
+                font-weight: 1000;
+            }
+            .diag-two{
+                font-size: 50px;
+            } 
+
+            </style>
+            </head>>
+
+            <body>
+                    <table  align="center">
+                    <caption class="diag-two">2019春信息17级课程表 </caption>
+                            <tr>
+                                <th bgcolor="coral"></th>
+                                <th class="diag-one diag-two"  bgcolor="coral" > 星 期 一</th>
+                                <th class="diag-one diag-two"  bgcolor="coral" > 星 期 二</th>
+                                <th class="diag-one diag-two"  bgcolor="coral" > 星 期 三</th>
+                                <th class="diag-one diag-two"  bgcolor="coral" > 星 期 四</th>
+                                <th class="diag-one diag-two"  bgcolor="coral" > 星 期 五</th>
+                            </tr>
+                            <tr>
+                                <td class="diag-one">8:20~10:00 第一大节</td>
+                                <td>web应用开发技术 教室:西区第一公共教学楼C411 周数：1-15周 老师：吕成功</td>
+                                <td>西方文化简史 教室：西区第一公共教学楼C311 周数：1-17周 老师：张金柱</td>
+                                <td>管理信息系统 教室：西区第一公共教学楼C105 周数：1-15周 老师：刘烨</td>
+                                <td>运营管理 教室：西区第一公共教学楼B405 周数：1-15周 老师：刘亮/邓华</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td class="diag-one">10:20~12:00 第二大节</td>
+                                <td>毛泽东思想与中国特色社会主义理论体系概论 教室：西区第一公共教学楼A120 周数1-16周 老师：顾洪英</td>
+                                <td>管理科学基础 教室：西区第一公共教学楼C411 周数：3-17周 老师：赵方方</td>
+                                <td>毛泽东思想与中国特色社会主义理论体系概论 教室：西区第一公共教学楼A120 周数1-16周 老师：顾洪英</td>
+                                <td>管理科学基础 教室：西区第一公共教学楼C411 周数：3-17周 老师：赵方方</td>
+                                <td>运营管理 教室：西区第一公共教学楼B405 周数：1-15周 老师：刘亮/邓华</td>
+                            </tr>
+                            <tr>
+                                <td colspan="6" class="diag-one" >午休</td>td>
+                            <tr>
+                                <td class="diag-one">14:00~15:40 第三大节</td>
+                                <td>管理信息系统 教室：西区第一公共教学楼C105 周数：1-15周 老师：刘烨</td>
+                                <td></td>
+                                <td>会计学 教室：西区第一公共教学楼B101 周数：1-17周 老师：刘晓晖/姜红</td>
+                                <td>体育 教室：体育馆 周数：1-15周 老师：薛松</td>
+                                <td>毛泽东思想与中国特色社会主义理论体系概论 教室：西区第一公共教学楼A120 周数1-16周 老师：顾洪英</td>
+                            </tr>
+                            <tr>
+                                <td class="diag-one">16:00~17:40 第四大节</td>
+                                <td>电子商务 教室：西区第一公共教学楼B303 周数：3-17周 老师：张亮</td>
+                                <td>数据库原理及应用 教室：西区第一公共教学楼C109 周数1-15周 老师：吴君</td>
+                                <td></td>
+                                <td>会计学 教室：西区第一公共教学楼B101 周数：1-17周 老师：刘晓晖/姜红</td>
+                                <td></td>
+                            </tr>
+                    </table>
+                </body>
+            </html>
